@@ -1,0 +1,7 @@
+Using GitHub and GitKraken makes teamwork much easier. Especially when we work different hours. 
+It makes it easy to work, track, and collaborate at any time of day.
+Also, there is no confusion about files because we do not have too many slightly different files after we change other programs. 
+Additionally, even though we did not use it in this assignment comments on GitHub will be too useful on bigger programs like our project. 
+Still, I encountered some obstacles especially when using GitKraken. 
+One of them is its interface. I almost pushed files wrongly a couple of times. 
+So, it requires a lot of attention when using it. It was hard to understandbranch and main relationship and using it.
